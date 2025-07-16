@@ -8,7 +8,7 @@ This is a machine learning-based web application built using **Readdy AI** that 
 
 ## 🌟 Demo
 
-🔗 **Live Web App:** *(Add your Readdy app link here)*
+🔗 **Live Web App:** https://readdy.link/preview/9357c552-815f-432f-80ac-c6c703bf69dd/1113136
 
 ---
 
